@@ -3,7 +3,7 @@
 warning: do not use that as copy and paste solution. it won't work neither for a10t nor a10 as it requires additional Hardware to work.
 Mainboard: GT2560 v4.0 
 
-Hello here I am sharing my klipper Konfiguration for my heavily modified geeetech a10t which is converted to single direct drive extruder a10 with 1in1out hotend instead of the stock 3in1out mixing hotend.
+Hello here I am sharing my klipper Konfiguration for my heavily modified geeetech a10t which is converted to single direct drive extruder a10 with 1in1out hotend instead of the stock 3in1out mixing hotend. Also i am using a modified extruder motor from a sovol sv06 plus
 Also some other stuff that requires additional hardwaare and/or modification. So you definitely cant copy paste whole config.
 maybe it can be useful in one way or another for klipper User. 
 
